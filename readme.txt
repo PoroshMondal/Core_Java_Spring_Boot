@@ -2,7 +2,7 @@
 
 A Java repository to learn and practice the Core Java functionality, Springboot features
 
-## Java Core Functionality
+##Java Core Functionality
 
 - Collections, Data Structure, Generics
 - Java Lambda Expression, Functional Interfaces
